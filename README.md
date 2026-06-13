@@ -62,6 +62,19 @@ To provide a clear, trustworthy, and accessible window into global events throug
 - Human-Centered Interfaces
 - Scientific and Analytical Integrity
 
+## The heck If I Know
+
+- AI
+- Backend
+- Database
+- Design
+- Docs
+- Frontend
+- README.md
+- Scripts
+- Security
+- Tests
+
 ## Project Status
 
 Early Development

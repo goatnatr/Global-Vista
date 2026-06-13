@@ -1,8 +1,6 @@
 # Global-Vista
 Global Vista is an unique news source application. Have AI will code. Global Vista aims to revolutionize news consumption by delivering a streamlined experience.
 
-# Global Vista
-
 Global Vista is a next-generation spatial intelligence platform designed to transform complex global information into immersive, interactive, and understandable experiences.
 
 Built initially for Apple Vision Pro, Global Vista combines real-time information gathering, AI-assisted analysis, narrative discovery, event clustering, timeline visualization, geospatial awareness, and immersive spatial computing to help users understand the evolving state of the world.

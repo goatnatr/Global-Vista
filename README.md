@@ -6,8 +6,13 @@ Global Vista is a next-generation spatial intelligence platform designed to tran
 Built initially for Apple Vision Pro, Global Vista combines real-time information gathering, AI-assisted analysis, narrative discovery, event clustering, timeline visualization, geospatial awareness, and immersive spatial computing to help users understand the evolving state of the world.
 
 ## Mission
-
 To provide a clear, trustworthy, and accessible window into global events through advanced visualization, intelligent analysis, and human-centered design.
+
+## Mission
+To transform complex global information into clear, trustworthy, and connected spatial intelligence.
+
+## Vision
+To create the world’s most trusted platform for understanding global events across time, place, sources, and systems.
 
 ## Core Capabilities
 
